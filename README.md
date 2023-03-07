@@ -2,6 +2,9 @@
 
 Right now I am learning to code at Microverse Courses
 
+### About Me:
+Microverse student passionate about software engineering and eager to learn. Experienced in HTML, CSS, and JavaScript, with a focus on front-end development. Dedicated to creating high-quality, user-friendly web applications. Seeking opportunities to collaborate on open-source projects and contribute to the development community
+
 ### Languages:
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
