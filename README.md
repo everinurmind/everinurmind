@@ -19,3 +19,55 @@
 <a href="https://www.linkedin.com/in/everinurmind/"><i class="lab la-linkedin"></i></a>
 <a href="https://github.com/everinurmind"><i class="lab la-github"></i></a>
 <a href="https://instagram.com/everinurmind"><i class="lab la-instagram"></i></a>
+
+<style>
+* {
+    text-align: left;
+    }
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    color: #fff;
+    opacity: 50%;
+}
+
+#about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#about > p {
+    font-style: italic;
+}
+
+.microverse {
+    width: 22px;
+    background-color: #9900CC;
+ }
+
+.las {
+    font-size: 30px;
+}
+
+.lab {
+    font-size: 48px;
+ }
+
+.la-html5 {
+    color: #F06529;
+ }
+
+.la-css3-alt {
+    color: #2965F1;
+}
+
+.la-js-square { 
+    color: #F0DB4F;
+}
+</style>
