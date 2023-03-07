@@ -1,6 +1,8 @@
+<! DOCTYPE html>
+<html>
 <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
 <link rel="stylesheet" href="style.css">
-
+<body>
 ### Hi there, I am Nurbol Sultanov <i class="las la-user-secret"></i>
 
 <div id=about><p>Right now I am learning to code at Microverse Courses</p>
@@ -71,3 +73,5 @@ a:hover {
     color: #F0DB4F;
 }
 </style>
+    </body>
+    </html>
