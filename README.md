@@ -15,6 +15,6 @@ Microverse student passionate about software engineering and eager to learn. Exp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everinurmind&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact:
-[![](https://icongr.am/fontawesome/github.svg?size=30&color=ededed")](https://github.com/everinurmind/)
-[![](https://icongr.am/fontawesome/reddit.svg?size=28&color=ededed")](https://www.reddit.com/user/SwitchMassive9273)
-[![](https://icongr.am/fontawesome/linkedin-square.svg?size=30&color=ededed")](https://www.linkedin.com/in/everinurmind/)
+[![](https://icongr.am/fontawesome/github.svg?size=30&color=555555")](https://github.com/everinurmind/)
+[![](https://icongr.am/fontawesome/reddit.svg?size=28&color=555555")](https://www.reddit.com/user/SwitchMassive9273)
+[![](https://icongr.am/fontawesome/linkedin-square.svg?size=30&color=555555")](https://www.linkedin.com/in/everinurmind/)
