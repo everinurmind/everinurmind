@@ -11,7 +11,7 @@ Microverse student passionate about software engineering and eager to learn. Exp
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=30&color=currentColor)
 ![Ruby](https://icongr.am/devicon/ruby-original-wordmark.svg?size=30&color=currentColor)
-![Rails](https://icongr.am/devicon/rails-plain.svg?size=30&color=currentColor)
+![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=30&color=currentColor)
 
 ### My GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=everinurmind&show_icons=true&theme=onedark)
