@@ -10,6 +10,7 @@ Microverse student passionate about software engineering and eager to learn. Exp
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=30&color=currentColor)
+![PostgreSQL](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=30&color=currentColor)
 ![Ruby](https://icongr.am/devicon/ruby-original-wordmark.svg?size=30&color=currentColor)
 ![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=30&color=currentColor)
 
