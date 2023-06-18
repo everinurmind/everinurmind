@@ -6,11 +6,12 @@ Right now I am learning to code at Microverse Courses
 Microverse student passionate about software engineering and eager to learn. Experienced in HTML, CSS, and JavaScript, with a focus on front-end development. Dedicated to creating high-quality, user-friendly web applications. Seeking opportunities to collaborate on open-source projects and contribute to the development community
 
 ### Languages:
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
-![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
+![HTML5](https://icongr.am/devicon/html5-plain.svg?size=30&color=currentColor)
+![CSS3](https://icongr.am/devicon/css3-plain.svg?size=30&color=currentColor)
+![JavaScript](https://icongr.am/devicon/javascript-plain.svg?size=30&color=currentColor)
+![React](https://icongr.am/devicon/react-original.svg?size=30&color=ffffff)
+![Ruby](https://icongr.am/devicon/ruby-plain.svg?size=30&color=currentColor)
+![Rails](https://icongr.am/devicon/rails-plain.svg?size=30&color=currentColor)
 
 ### My GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=everinurmind&show_icons=true&theme=onedark)
