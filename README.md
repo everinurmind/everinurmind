@@ -46,7 +46,7 @@ While most of my public repositories were created during that period of software
 
 ## 📂 Notable Projects
 
-- **[Inventory API (Node.js + Express)](https://github.com/everinurmind/inventory-api)** – RESTful backend for small business use  
+- **[Budget App API (Node.js + Express)](https://github.com/everinurmind/budget_app)** – RESTful backend for small business use 
 - **[Microverse Capstone Projects](https://github.com/everinurmind?tab=repositories&q=capstone)** – Final frontend and full-stack projects  
 - Coming soon: **Infrastructure scripts**, **AD lab automation**, and **backup playbooks**
 
