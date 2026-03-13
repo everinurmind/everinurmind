@@ -1,70 +1,37 @@
-# 👋 Hi there, I’m Nurbol Sultanov
+# Hi, I'm Nurbol Sultanov 👋
 
-Welcome to my GitHub! I’m an aspiring **Infrastructure Engineer** based in Los Angeles, CA. I originally created this GitHub profile while studying full-stack web development at **Microverse**, where I collaborated on projects with international peers and contributed to open-source-style team work.
-
-While most of my public repositories were created during that period of software engineering training, my **professional experience actually began in IT infrastructure** — long before I started learning GitHub. I worked with enterprise systems in both **corporate (Kazatomprom)** and **small business** environments, supporting virtual machines, servers, networks, and automation systems.
-
----
-
-## 👨‍💻 Background
-
-- **2015–2019:** IT Specialist in a national enterprise infrastructure team  
-  → Managed **VMware vCenter/ESXi**, **Windows Server**, **Active Directory**, **DNS**, and **DHCP**  
-  → Wrote PowerShell scripts to automate user and system tasks  
-  → Participated in audits, incident response, and configuration hardening  
-
-- **2019–present:** Freelance infrastructure consultant for small businesses  
-  → Designed network and virtualization setups using **VMware**, **VLANs**, and **pfSense**  
-  → Integrated Microsoft 365 and Azure AD  
-  → Deployed internal tools with **Node.js**, managed backups and access control  
-
-- **2022–2024:** Remote full-time **Microverse** student  
-  → Built multiple full-stack web apps using **JavaScript, Node.js, Express, PostgreSQL**  
-  → Practiced Git-based workflows, code reviews, agile collaboration  
-  → Learned GitHub as a version control and project collaboration tool  
+**Data Analyst** based in Los Angeles, CA  
+Transforming raw data into actionable insights through SQL, Python, and BI tools.
 
 ---
 
-## 🛠️ What I’m Working on Now
+## 🔧 Tech Stack
 
-- Documenting my **home lab environments** (VMware + pfSense + Zabbix + Active Directory)  
-- Writing **PowerShell** and **Ansible** scripts to automate provisioning and backups  
-- Practicing infrastructure-as-code concepts and cloud integration (Azure, AWS basics)  
-- Studying for **VMware vSphere Foundations**, **Network+**, and **Azure Fundamentals (AZ-900)**
-
----
-
-## 🔧 Skills & Tools
-
-**Infrastructure & Automation:**  
-`VMware vCenter`, `ESXi`, `vSAN`, `PowerShell`, `Ansible`, `Azure`, `pfSense`, `Zabbix`, `Windows Server`, `Active Directory`, `DNS`, `DHCP`, `VLANs`, `CI/CD Concepts`
-
-**Development Tools (from Microverse):**  
-`JavaScript`, `Node.js`, `Express`, `PostgreSQL`, `MongoDB`, `React (basic)`, `Git`, `REST APIs`, `Docker`, `JSON`, `Postman`
+**Languages:** SQL · Python (pandas, NumPy, Matplotlib, Seaborn)  
+**BI & Visualization:** Tableau · Power BI · Excel (Advanced)  
+**Data:** Data Cleaning · EDA · KPI Dashboards · Ad-hoc Analysis · Statistical Analysis  
+**Tools:** Git · GitHub · Jupyter · SQLite · VS Code
 
 ---
 
-## 📂 Notable Projects
+## 📂 Projects
 
-- **[Budget App API (Node.js + Express)](https://github.com/everinurmind/budget_app)** – RESTful backend for small business use 
-- **[Microverse Capstone Projects](https://github.com/everinurmind?tab=repositories&q=capstone)** – Final frontend and full-stack projects  
-- Coming soon: **Infrastructure scripts**, **AD lab automation**, and **backup playbooks**
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=everinurmind&show_icons=true&theme=onedark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everinurmind&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| Project | Tools | Description |
+|---|---|---|
+| [Social Media Fan Engagement Analysis](https://github.com/everinurmind/social-media-engagement-analysis) | SQL · Python · Matplotlib | Analyzed 10K+ posts across 5 platforms to identify engagement drivers and top-performing content |
+| Marketing Campaign Dashboard | SQL · Power BI | Coming soon |
+| Retail Sales & Customer Behavior | SQL · Python · Excel | Coming soon |
 
 ---
 
-## 📫 How to Reach Me
+## 📈 Currently
 
-- 📧 Email: [nurbol.sultanov@gmail.com](mailto:nurbol.sultanov@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/everinurmind](https://www.linkedin.com/in/everinurmind)  
-- 💻 GitHub: [github.com/everinurmind](https://github.com/everinurmind)
+- Building a data analytics portfolio with real business data
+- Completing **Google Data Analytics Professional Certificate** (Coursera, 2026)
+- Studying at **Santa Monica College** — CS Transfer Track
 
 ---
 
-Thanks for visiting!
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/everinurmind/) · [nurbol.sultanov@gmail.com](mailto:nurbol.sultanov@gmail.com)
